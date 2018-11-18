@@ -1248,8 +1248,58 @@
     ],
     "descricao_servicos": "Terapia comportamental para jovens, adultos e idosos.",
     "email": "leamdc@gmail.com",
-    "mapa":
-      "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3887.881059364436!2d-38.454540185177905!3d-12.979458490850709!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7161b049c14de4b%3A0x86848acbeee11666!2sAv.+Tancredo+Neves%2C+2539+-+Caminho+das+%C3%81rvores%2C+Salvador+-+BA%2C+41820-021!5e0!3m2!1spt-BR!2sbr!4v1540975470761\" width=\"100%\" height=\"450\" frameborder=\"0\" style=\"border:0\" allowfullscreen></iframe>",
+    "mapa": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3887.881059364436!2d-38.454540185177905!3d-12.979458490850709!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7161b049c14de4b%3A0x86848acbeee11666!2sAv.+Tancredo+Neves%2C+2539+-+Caminho+das+%C3%81rvores%2C+Salvador+-+BA%2C+41820-021!5e0!3m2!1spt-BR!2sbr!4v1540975470761\" width=\"100%\" height=\"450\" frameborder=\"0\" style=\"border:0\" allowfullscreen></iframe>",
     "crp": "03/3787"
+  },
+  {
+    "ativo": true,
+    "nome": "IVAN LUCIO DE QUADROS CORREIA",
+    "end": "Euclides da Cunha, 403",
+    "tel": "071999715040",
+    "whatsapp": "071 999715040",
+    "email": "coach@ivanquadros.com.br",
+    "valor": "50,00 por sessão",
+    "descricao_servicos": "Coach",
+    "servicos": [
+      "Life Coach"
+    ]
+  },
+  {
+    "nome": "Herbelim Paim",
+    "end": "Rua Alberto Pasqualini 141, Amaralina, Salvador, Bahia Cep: 41900-266, Brazil",
+    "tel": "(71) 991355993",
+    "whatsapp": "(71) 991355993",
+    "email": "herbelim@gmail.com",
+    "valor": "",
+    "servicos": [
+      "Crianças e adolescentes",
+      "Terapia individual"
+    ],
+    "descricao_servicos": "Especialista em terapia cognitiva comportamental. Atendimento à crianças, adolescentes, adultos e pessoas com Fobia Social.",
+    "mapa": "",
+    "video": "",
+    "bairros_atendidos": "",
+    "crp": "03/16760",
+    "crm": "",
+    "ativo": true
+  },
+  {
+    "nome": "Ana Cristina Santana dos Santos",
+    "end": "Rua Alceu Amoroso Lima, 267 a sala 404 edf Mondial Salvador office",
+    "tel": "71 99191.0082",
+    "whatsapp": "71 99191.0082",
+    "email": "crissantana.psicologa@gmail.com",
+    "valor": "Atendo também por valor social",
+    "servicos": [
+      "Crianças e adolescentes",
+      "Terapia individual"
+    ],
+    "descricao_servicos": "Atendimento psicoterapeutico de crianças, adolescentes, casal, família e individual.",
+    "mapa": "",
+    "video": "",
+    "bairros_atendidos": "Caminho das Árvores e Pituba ",
+    "crp": "16112",
+    "crm": "",
+    "ativo": true
   }
 ]
