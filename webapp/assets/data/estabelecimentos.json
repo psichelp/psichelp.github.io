@@ -918,7 +918,7 @@
       "Online",
       "Terapia individual"
     ],
-    "descricao_servicos": "Psicologia. Atendimento online de diversas cidades do Brasil e exterior. www.psicologiaviva.com.br/adampereira",
+    "descricao_servicos": "Psicologia. Atendimento online de diversas cidades do Brasil e exterior. <a href='http://www.psicologiaviva.com.br/adampereira'>http://www.psicologiaviva.com.br/adampereira</a>",
     "mapa": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3675.752594523973!2d-43.563493985034825!3d-22.885595985022633!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9be3d8b1d97801%3A0x4bde266ba454f14c!2sEstr.+Guand%C3%BA+do+Sap%C3%A9%2C+112+-+Campo+Grande%2C+Rio+de+Janeiro+-+RJ%2C+23075-000!5e0!3m2!1spt-BR!2sbr!4v1531978532356\" width=\"100%\" height=\"450\" frameborder=\"0\" style=\"border:0\" allowfullscreen></iframe>"
   },
   {
@@ -1773,6 +1773,85 @@
     "video": "",
     "bairros_atendidos": "",
     "crp": "CRP03/6806",
+    "crm": "",
+    "ativo": true
+  },
+  {
+    "nome": "Eliene Jesus Silva ",
+    "end": "Rua Recife, n°115 - Barra. Atendo no Instituto Quatro Estações",
+    "tel": "",
+    "whatsapp": "(71) 993278341",
+    "email": "elieneampliarensino@gmail.com",
+    "valor": "A combinar ou Clínica Social",
+    "servicos": [
+      "Crianças e adolescentes",
+      "Orientação Profissional",
+      "Terapia individual"
+    ],
+    "descricao_servicos": "Atendimento Clínico - Psicanálise ",
+    "mapa": "",
+    "video": "",
+    "bairros_atendidos": "",
+    "crp": "",
+    "crm": "",
+    "ativo": true
+  },
+  {
+    "nome": "Joanna Cafezeiro ",
+    "end": "Condomínio edifício Delta, rua Rua da Grécia em frente à secretaria Municipal de saúde ",
+    "tel": "(71)991200147",
+    "whatsapp": "(71)991200147",
+    "email": "Joannacafezeiro@gmail.com",
+    "valor": "Valor Social  $60,00",
+    "servicos": [
+      "Terapia individual",
+      "Crianças e adolescentes",
+      "Terapia Conjugal"
+    ],
+    "descricao_servicos": "Psicóloga \nEspecialista em Terapia Cognitivo Comportamental ",
+    "mapa": "",
+    "video": "",
+    "bairros_atendidos": "",
+    "crp": "03/15890",
+    "crm": "",
+    "ativo": true
+  },
+  {
+    "nome": "Andreza Maria Moraes de Faria",
+    "end": "Comércio",
+    "tel": "071 99663-8689",
+    "whatsapp": "71996639689",
+    "email": "andrezamoraes1@hotmail.com",
+    "valor": "Atendimento com Valor Social",
+    "servicos": [
+      "Terapia individual",
+      "Crianças e adolescentes",
+      "Álcool e outras drogas"
+    ],
+    "descricao_servicos": "Atendimento Psicoterapêutico para Crianças, Adolescentes, Adultos e Idosos",
+    "mapa": "",
+    "video": "",
+    "bairros_atendidos": "",
+    "crp": "CRP 03/14695",
+    "crm": "",
+    "ativo": true
+  },
+  {
+    "nome": "Cláudio Henrique Raposo",
+    "end": "Avenida ACM edf Golden Plaza. Sala 509",
+    "tel": "071999000658",
+    "whatsapp": "071999000658",
+    "email": "Claudio@raposoadvocacia.adv.br",
+    "valor": "Valor social",
+    "servicos": [
+      "LGBT",
+      "Crianças e adolescentes"
+    ],
+    "descricao_servicos": "Atendimento e consultoria jurídica. OAB 61469",
+    "mapa": "",
+    "video": "",
+    "bairros_atendidos": "",
+    "crp": "",
     "crm": "",
     "ativo": true
   }
