@@ -1878,7 +1878,7 @@
     "end": " Rua Ewerton Visco, 290, Edf. Boulevard Side Empresarial, Sala 211, Clinica Gestar Psi.",
     "tel": "71 98686-4858",
     "whatsapp": "71 98606-4858",
-    "email": "Ivoneteleo@outlook.com",
+    "email": "ivoneteleo@outlook.com",
     "valor": "Clínica Social ",
     "servicos": [
       "Terapia individual"
@@ -1888,6 +1888,24 @@
     "video": "",
     "bairros_atendidos": "",
     "crp": "03/19232",
+    "crm": "",
+    "ativo": true
+  },
+  {
+    "nome": "Adriana Nascimento",
+    "end": "",
+    "tel": "",
+    "whatsapp": "71981837079",
+    "email": "adrianasn@outlook.com.br",
+    "valor": "Valor negociável ",
+    "servicos": [
+      "Terapia individual"
+    ],
+    "descricao_servicos": "Atendimentos domiciliar e particular também \nAdolescentes, Adultos e Idosos\n",
+    "mapa": "",
+    "video": "",
+    "bairros_atendidos": "Mata de São João, Dias D'Ávila, Camaçari e Salvador",
+    "crp": "03/17344",
     "crm": "",
     "ativo": true
   }
