@@ -1,3 +1,3 @@
-# psichelp.com.br
+# psicohelp.org
 
-> Acesse o site http://psichelp.com.br/ e saiba mais sobre o projeto.
+> Acesse o site http://psicohelp.org/ e saiba mais sobre o projeto.
