@@ -129,7 +129,7 @@
   {
     "ativo": true,
     "nome": "Daiana Sá Teles",
-    "end": "Edifício Fernandez, Av. 7 de Setembro, 302, 8° andar, Sala 815, Salvador/BA",
+    "end": "Resgate: Espaço Reconexão R. Alcobaça, 85E - Resgate, Salvador - BA, 41152-115, Liberdade: Policlínica da Liberdade, Estr. da Liberdade, 270 - Liberdade, Salvador - BA, 40375-016, Av. 7: Espaço Terapêutico Cristais Avenida 7. Edf Fernandez, 8° andar, sala 815",
     "tel": "(71) 99718-2866",
     "whatsapp": "+5571997182866",
     "valor": "Valor social (valor acessível)",
@@ -138,7 +138,7 @@
       "Crianças e adolescentes",
       "Terapia de Grupo"
     ],
-    "descricao_servicos": "Psicoterapia individual (criança, adolescente, adulto e idoso) & grupos (max. 5 pessoas) de bate-papo sobre temas relevantes no contexto da Psicologia.",
+    "descricao_servicos": "Psicoterapia individual para crianças, adolescentes, adultos e idosos. Nos bairros: Resgate, Liberdade e Av. 7. Particular, clínica social e convênios. Mais informações entrar em contato via WhatsApp.",
     "email": "contatodaianapsicologia@gmail.com",
     "mapa": "<iframe src='https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d1943.942745436484!2d-38.515709091933424!3d-12.979175147712732!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sEdif%C3%ADcio+Fernandez%2C+Av.+7+de+Setembro%2C+302%2C+8%C2%B0+andar%2C+Sala+815%2C+Salvador%2FBa!5e0!3m2!1spt-BR!2sbr!4v1535587271294' width='100%' height='450' frameborder='0' style='border:0' allowfullscreen></iframe>",
     "id": "Daiana-Sa-Teles-8dd"
@@ -1399,7 +1399,7 @@
     "tel": "",
     "whatsapp": "71985084258",
     "email": "",
-    "valor": "0,00",
+    "valor": "Gratuito",
     "servicos": [
       "Crianças e adolescentes",
       "LGBT"
@@ -1410,7 +1410,7 @@
     "bairros_atendidos": "Ribeira, Massaranduba, itapagipe",
     "crp": "",
     "crm": "",
-    "ativo": false,
+    "ativo": true,
     "id": "Priscila-Dantas-5de"
   },
   {
@@ -1714,7 +1714,7 @@
     "tel": "071993804475",
     "whatsapp": "071993804475",
     "email": "desajoane@hotmail.com",
-    "valor": "60,00",
+    "valor": "Valor social",
     "servicos": [
       "Terapia individual"
     ],
@@ -1754,7 +1754,7 @@
     "tel": "019982453304",
     "whatsapp": "+5519982453304",
     "email": "luciana-grace@hotmail.com",
-    "valor": "60,00",
+    "valor": "Valor social",
     "servicos": [
       "Terapia individual",
       "Terapia Conjugal"
@@ -1774,7 +1774,7 @@
     "tel": "31 99122-6103",
     "whatsapp": "31 99122-6103",
     "email": "Psico.alzira@gmail.com",
-    "valor": "60,00",
+    "valor": "Valor social",
     "servicos": [
       "Planos de saúde - Psicologos",
       "Terapia individual",
@@ -1839,7 +1839,7 @@
     "tel": "71993229395",
     "whatsapp": "71993229395",
     "email": "thijames@gmail.com",
-    "valor": "50",
+    "valor": "Valor social",
     "servicos": [
       "Terapia individual",
       "Online",
@@ -1861,7 +1861,7 @@
     "tel": "71 98102-6737",
     "whatsapp": "71 98102-6737",
     "email": "psijoanagomes@gmail.com",
-    "valor": "150,00 e planos de saúde",
+    "valor": "Particular e planos de saúde",
     "servicos": [
       "Crianças e adolescentes",
       "Terapia individual",
@@ -1904,7 +1904,7 @@
     "tel": "(71)991200147",
     "whatsapp": "(71)991200147",
     "email": "Joannacafezeiro@gmail.com",
-    "valor": "Valor Social  $60,00",
+    "valor": "Valor social",
     "servicos": [
       "Terapia individual",
       "Crianças e adolescentes",
@@ -1925,7 +1925,7 @@
     "tel": "071 99663-8689",
     "whatsapp": "71996639689",
     "email": "andrezamoraes1@hotmail.com",
-    "valor": "Atendimento com Valor Social",
+    "valor": "Atendimento com valor Social",
     "servicos": [
       "Terapia individual",
       "Crianças e adolescentes",
@@ -1988,7 +1988,8 @@
     "email": "andressasantana897@gmail.com",
     "valor": "Valor social",
     "servicos": [
-      "Terapia individual"
+      "Terapia individual",
+      "Online"
     ],
     "descricao_servicos": "Psicoterapia individual - Adolescentes, Adultos e idosos.",
     "mapa": "",
@@ -2069,7 +2070,7 @@
     "tel": "71 982331995",
     "whatsapp": "71 982331995",
     "email": "Eduardohenriqueserra@gmail.com",
-    "valor": "60",
+    "valor": "Valor social",
     "servicos": [
       "Crianças e adolescentes",
       "Online",
@@ -2268,7 +2269,7 @@
     "tel": "21985154767",
     "whatsapp": "21985154767",
     "email": "fredmaxmartins@gmail.com",
-    "valor": "80 reais ",
+    "valor": "A combinar",
     "servicos": [
       "Terapia individual",
       "Terapia Familiar",
@@ -2328,45 +2329,93 @@
     "ativo": true
   },
   {
-    "nome": "Adriana Reis de Souza Munford",
-    "end": "IES Psicologia Integrada - Edifício Mundo Plaza, Caminho das Árvores, Salvador BA",
-    "tel": "71991471195",
-    "whatsapp": "71991471195",
-    "email": "adrianamunford.ies@gmail.com",
-    "valor": "A combinar",
+    "nome": "Soraya Sacramento Santos",
+    "end": "Rua do Uruguai número 88",
+    "tel": "71/98899-1876",
+    "whatsapp": "71/98899-1876",
+    "email": "sorayasacramento1@gmail.com",
+    "valor": "Valor social",
     "servicos": [
       "Online",
       "Terapia individual",
-      "Orientação Profissional"
+      "LGBT"
     ],
-    "descricao_servicos": "Atendimento psicológico online e presencial para adolescentes e adultos",
+    "descricao_servicos": "Sou Psicóloga com enfoque em Gestalt Terapia. Psicoterapia breve, realizando processo psicoterapêutico breve, focalizando nas questões trazidas, acolhendo e escutando ativamente. Preservando o sigilo das informações.",
     "mapa": "",
     "video": "",
     "bairros_atendidos": "",
-    "crp": "03/15764",
+    "crp": "03/20671",
     "crm": "",
-    "id": "Adriana-Reis-de-Souza-Munford-69f",
+    "id": "Soraya-Sacramento-Santos-f54",
     "ativo": true
   },
   {
-    "nome": "IES PSICOLOGIA INTEGRADA",
-    "end": "Edifício Empresarial Mundo Plaza, 11 andar, sala 1111, Avenida Tancredo Neves",
-    "tel": "(71)99147-1195",
-    "whatsapp": "(71)99147-1195",
-    "email": "adrianamunford.ies@gmail.com",
-    "valor": "A combinar",
+    "nome": "Rafaela de Oliveira Campos",
+    "end": "Buraquinho, Vilas - Lauro Freitas / C Árvores, ACM - Salvador",
+    "tel": "71983502713",
+    "whatsapp": "71999018613",
+    "email": "psicologarafaelacampos@gmail.com",
+    "valor": "Valor social negociável ",
     "servicos": [
+      "Crianças e adolescentes",
       "Online",
       "Orientação Profissional",
-      "Terapia individual"
+      "Terapia Conjugal",
+      "Terapia Familiar",
+      "Terapia de Grupo",
+      "Terapia individual",
+      "Álcool e outras drogas"
     ],
-    "descricao_servicos": "Oferecemos atendimento psicológico presencial e online para adolescentes e adultos em sessões.\n\nOferecemos orientação profissional, auxiliando o indivíduo a identificar os seus próprios interesses e sonhos para que ele seja capaz de perceber o mundo exterior e as profissões, ocupações e oportunidades com as quais mais se identifica através de testes psicológicos e sessões individuais.",
+    "descricao_servicos": "Psicóloga Clínica, Especializanda em Avaliação Psicológica, estou aqui para te auxiliar a lidar melhor com suas emoções e conjunturas que de alguma forma estão te trazendo sofrimento, seja consigo mesmo ou nos núcleos familiar/ Profissional.\nExperiência consolidada em liderança, grupos e desenvolvimento de Pessoas. Orientação Profissional e Carreira. Vamos juntos ?\n",
     "mapa": "",
     "video": "",
     "bairros_atendidos": "",
-    "crp": "03/15764",
+    "crp": "03/19823",
     "crm": "",
-    "id": "IES-PSICOLOGIA-INTEGRADA-8a1",
+    "id": "Rafaela-de-Oliveira-Campos-aa6",
+    "ativo": true
+  },
+  {
+    "nome": "NAYARA STEFENONI KUSTER",
+    "end": "Avenida Brasil, Maria das Graças, Colatina/ES",
+    "tel": "27999114745",
+    "whatsapp": "27999114745",
+    "email": "sknayara@gmail.com",
+    "valor": "50",
+    "servicos": [
+      "Online",
+      "LGBT",
+      "Orientação Profissional",
+      "Terapia individual"
+    ],
+    "descricao_servicos": "Serviço de psicoterapia individual para adultos em modalidade breve e a distância.",
+    "mapa": "",
+    "video": "",
+    "bairros_atendidos": "",
+    "crp": "16/5912",
+    "crm": "",
+    "id": "NAYARA-STEFENONI-KUSTER-15b",
+    "ativo": true
+  },
+  {
+    "nome": "Paula Machado ",
+    "end": "",
+    "tel": "",
+    "whatsapp": "(71)99299-9656",
+    "email": "psi.paulamachado@gmail.com",
+    "valor": "50,00",
+    "servicos": [
+      "Online",
+      "Terapia individual",
+      "Álcool e outras drogas"
+    ],
+    "descricao_servicos": "",
+    "mapa": "",
+    "video": "",
+    "bairros_atendidos": "",
+    "crp": "03/18285",
+    "crm": "",
+    "id": "Paula-Machado-646",
     "ativo": true
   }
 ]
