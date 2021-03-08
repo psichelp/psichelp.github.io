@@ -132,7 +132,7 @@
     "end": "Atua em 3 bairros de Salvador:<ul><li>R. Alcobaça, 85E - Resgate, Salvador - BA, 41152-115.</li><li>Estr. da Liberdade, 270 - Liberdade, Salvador - BA, 40375-016.</li><li>Avenida 7. Edf Fernandez, 8° andar, sala 815.</li>",
     "tel": "(71) 99718-2866",
     "whatsapp": "+5571997182866",
-    "valor": "Valor social (valor acessível)",
+    "valor": "Valor a combinar",
     "servicos": [
       "Terapia individual",
       "Crianças e adolescentes",
@@ -258,7 +258,6 @@
     "tel": " (71) 3194-7777 e 3235-8114",
     "valor": "Gratuito ou Valor social (valor acessível)",
     "servicos": [
-      "Emergência Psiquiátrica",
       "Terapia individual",
       "Terapia de Grupo"
     ],
@@ -1522,7 +1521,6 @@
     "email": "",
     "valor": "",
     "servicos": [
-      "Emergência Psiquiátrica",
       "Terapia de Grupo",
       "Terapia individual"
     ],
@@ -1819,7 +1817,7 @@
     "tel": "71 992769050",
     "whatsapp": "74 991216327",
     "email": "juliana_lopes15@hotmail.com",
-    "valor": "À combinar, baixo custo. Aceito cartão de crédito e débito.",
+    "valor": "A combinar, baixo custo. Aceito cartão de crédito e débito.",
     "servicos": [
       "Crianças e adolescentes",
       "Terapia individual"
@@ -2192,7 +2190,7 @@
     "crp": "03/20571",
     "crm": "",
     "id": "Alane-Silva-dos-Santos-9a0",
-    "ativo": true
+    "ativo": false
   },
   {
     "nome": "Priscila Freitas",
@@ -2416,6 +2414,409 @@
     "crp": "03/18285",
     "crm": "",
     "id": "Paula-Machado-646",
+    "ativo": true
+  },
+  {
+    "nome": "Daiane de Paula ",
+    "end": "Avenida Luis Tarquínio, Vilas do Atlântico, Lauro de Freitas",
+    "tel": "",
+    "whatsapp": "71996152630",
+    "email": "daiane.paula@acalme-se.com.br",
+    "valor": "A combinar",
+    "servicos": [
+      "Online",
+      "Terapia individual",
+      "Álcool e outras drogas"
+    ],
+    "descricao_servicos": "",
+    "mapa": "",
+    "video": "",
+    "bairros_atendidos": "",
+    "crp": "03/12068",
+    "crm": "",
+    "id": "Daiane-de-Paula-6c9",
+    "ativo": true
+  },
+  {
+    "nome": "RAIANE LIMA SILVA",
+    "end": "António Nogueira De Oliveira",
+    "tel": "1699257_1155",
+    "whatsapp": "16 99257_1155",
+    "email": "limasilvaraiane@gmail.com",
+    "valor": "90,00",
+    "servicos": [
+      "Online",
+      "Terapia individual"
+    ],
+    "descricao_servicos": "Sou psicóloga formada pela universidade Estácio, pós graduanda em psicanálise clínica atendimento psicológico online e presencial acolhimento acompanhamento, depressão, ansiedade, Borderline, entre outros transtornos.",
+    "mapa": "",
+    "video": "",
+    "bairros_atendidos": "Parque Ribeirão",
+    "crp": "06/164681",
+    "crm": "",
+    "id": "RAIANE-LIMA-SILVA-9fb",
+    "ativo": true
+  },
+  {
+    "nome": "UPA de Roma 24H",
+    "end": "Rua Barão de Cotegipe, 1153 - Calçada, Salvador - BA, 40444-090",
+    "tel": "(71) 3316-8600",
+    "whatsapp": "",
+    "email": "",
+    "valor": "Gratuito",
+    "servicos": [
+      "Terapia individual",
+      "Emergência Psiquiátrica"
+    ],
+    "descricao_servicos": "A nova UPA tem 4 mil metros quadrados, a maior de Salvador, fica em frente ao Hospital Santo Antônio, e tem 191 profissionais, entre médicos, enfermeiros e técnicos. A novidade é um plantão psiquiátrico que estará à disposição, serviço que ainda não há nas outras UPAs da cidade. O local também terá atendimento domiciliar, com médicos e outros profissionais de saúde dando acompanhamento em casa aos pacientes que receberam alta.\n\nA UPA também tem uma base do Serviço de Atendimento Móvel de Urgência (Samu), espaço onde se equipes poderão descasar, repor as medicações das ambulâncias e fazer a higienização dos veículos.",
+    "mapa": "<iframe src='https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15554.178631565226!2d-38.506657!3d-12.9369612!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x1e21954fc39ace5c!2sUPA%20de%20Roma!5e0!3m2!1spt-BR!2sbr!4v1608205384510!5m2!1spt-BR!2sbr' width='100%' height='450' frameborder='0' style='border:0;' allowfullscreen=' aria-hidden='false' tabindex='0'></iframe>'",
+    "video": "",
+    "bairros_atendidos": "",
+    "crp": "",
+    "crm": "",
+    "id": "UPA-de-Roma-42d",
+    "ativo": true
+  },
+  {
+    "nome": "UPA de Valeria 24H",
+    "end": "Colegio Noemia Rego - R. do Lavrador, sn - Valéria, Salvador - BA, 41300-470",
+    "tel": "(71) 3500-2600 / (71) 3500-2601 / (71) 3500-2602 / (71) 3500-2603",
+    "whatsapp": "",
+    "email": "",
+    "valor": "Gratuito",
+    "servicos": [
+      "Terapia individual",
+      "Emergência Psiquiátrica"
+    ],
+    "descricao_servicos": "",
+    "mapa": "<iframe src='https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15558.678154310881!2d-38.4372461!3d-12.8646079!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x59e89d815855d990!2sUPA%2024H%20Valeria!5e0!3m2!1spt-BR!2sbr!4v1608205873571!5m2!1spt-BR!2sbr' width='100%' height='450' frameborder='0' style='border:0;' allowfullscreen=' aria-hidden='false' tabindex='0'></iframe>'",
+    "video": "",
+    "bairros_atendidos": "",
+    "crp": "",
+    "crm": "",
+    "id": "UPA-24H-Valeria-fb1",
+    "ativo": true
+  },
+  {
+    "nome": "Viviane Passos",
+    "end": "",
+    "tel": "71993310165",
+    "whatsapp": "71993310165",
+    "email": "vjpsicologa@gmail.com",
+    "valor": "",
+    "servicos": [
+      "Terapia individual",
+      "Online"
+    ],
+    "descricao_servicos": "Psicóloga desde 2015, especialista em Terapia Cognitivo Comportamental; Pedagoga formada pela UFBA, estudante da vertente Psicologia Preta e de questões de gênero e diversidade.\n\nLevo pessoas com baixa auto estima a se reconhecer enquanto seres únicos e capazes que são.",
+    "mapa": "",
+    "video": "",
+    "bairros_atendidos": "",
+    "crp": "03/14286",
+    "crm": "",
+    "id": "Viviane-Passos-563",
+    "ativo": true
+  },
+  {
+    "nome": "Nadjane Sena Saraiva",
+    "end": "",
+    "tel": "71 99199-9572 ",
+    "whatsapp": "71 99199-9572 ",
+    "email": "psic.nadjanesena@gmail.com",
+    "valor": "",
+    "servicos": [
+      "Online",
+      "Crianças e adolescentes",
+      "Planos de saúde - Psicologos",
+      "Terapia individual"
+    ],
+    "descricao_servicos": "Atendimento de psicoterapia valor social e particular, planos de saúde. Crianças, adolescentes, adultos e gestantes. Abordagem Terapia Cognitiva Comportamental",
+    "mapa": "",
+    "video": "",
+    "bairros_atendidos": "",
+    "crp": "03/16691",
+    "crm": "",
+    "id": "Nadjane-Sena-Saraiva-eb8",
+    "ativo": true
+  },
+  {
+    "nome": "Lilian Guedes",
+    "end": "",
+    "tel": "71981545681",
+    "whatsapp": "71981545681",
+    "email": "liucrisguedes@gmail.com",
+    "valor": "",
+    "servicos": [
+      "Online",
+      "Crianças e adolescentes",
+      "Planos de saúde - Psicologos"
+    ],
+    "descricao_servicos": "Psicoterapia para crianças e adolescentes. Orientação Familiar/oficinas de educação emocional positiva para crianças e adolescentes\n",
+    "mapa": "",
+    "video": "",
+    "bairros_atendidos": "",
+    "crp": "22458/03",
+    "crm": "",
+    "id": "Lilian-Guedes-c02",
+    "ativo": true
+  },
+  {
+    "nome": "Larissa Valéria da Cruz Souza",
+    "end": "Atendimento on-line a combinar a plataforma ",
+    "tel": "71 996798389",
+    "whatsapp": "71 996798389",
+    "email": "larissavaleria11@gmail.com",
+    "valor": "Valor social",
+    "servicos": [
+      "Online"
+    ],
+    "descricao_servicos": "Atendimentos Psicológicos online para seguintes demandas depressão, ansiedade, estresse pós traumático, sexualidade, medos e fobias, educação alimentar, autoestima, compulsões, procrastinação, inseguranças, vida familiar, relacionamentos e outros. O processo terapêutico pode viabilizar recursos para lidar com dificuldades emocionais e tornar compreensíveis possíveis mudanças. Autoconhecimento, autoestima, autoconfiança, que a própria pessoa reflita sobre a sua vida.",
+    "mapa": "",
+    "video": "",
+    "bairros_atendidos": "Online ",
+    "crp": "CRP 03/21693",
+    "crm": "",
+    "id": "Larissa-Valeria-da-Cruz-Souza-ffb",
+    "ativo": true
+  },
+  {
+    "nome": "Rede de Psicanálise Aplicada",
+    "end": "",
+    "tel": "",
+    "whatsapp": "(71)98701-7444",
+    "email": "",
+    "valor": "",
+    "servicos": [
+      "Crianças e adolescentes",
+      "LGBT",
+      "Álcool e outras drogas"
+    ],
+    "descricao_servicos": "A ‘REDE DE PSICANÁLISE APLICADA – BAHIA’ é um projeto do IPB que visa oferecer à comunidade de  Salvador a possibilidade de acesso a um tratamento de orientação psicanalítica. O acesso à Rede é feito por agendamento.",
+    "mapa": "",
+    "video": "",
+    "bairros_atendidos": "",
+    "crp": "",
+    "crm": "",
+    "id": "Rede-de-Psicanalise-Aplicada-786",
+    "ativo": true
+  },
+  {
+    "nome": "Gestar Psi - Clínica de Psicologia",
+    "end": "Rua Ewerton Visco, n 290, Edf. Boulevard Side Empresarial - Caminho das Árvores - Salvador/BA",
+    "tel": "(71) 3342-6227",
+    "whatsapp": "(71) 99373-3334",
+    "email": "gestarpsi@gmail.com",
+    "valor": "",
+    "servicos": [
+      "Crianças e adolescentes",
+      "LGBT",
+      "Online",
+      "Orientação Profissional",
+      "Planos de saúde - Psicologos",
+      "Terapia Conjugal",
+      "Terapia Familiar",
+      "Terapia individual",
+      "Álcool e outras drogas"
+    ],
+    "descricao_servicos": "Psicoterapia\nAvaliação Psicológica\nPsicodiagnóstico\nOrientação Vocacional\nAcompanhamento a Gestantes\nAvaliação e Acompanhamento psicopedagógico\nTerapia de Casal\nTerapia Familiar\nTerapia Sexual",
+    "mapa": "",
+    "video": "",
+    "bairros_atendidos": "",
+    "crp": "",
+    "crm": "",
+    "id": "Gestar-Psi-Clinica-de-Psicologia-863",
+    "ativo": true
+  },
+  {
+    "nome": "Patrícia dos Santos da Fonseca",
+    "end": "Rua Alceu Amoroso Lima 470, Empresarial Niemayer Caminho das Árvores Ao lado do Salvador shopping 4°andar Sala 411",
+    "tel": "71986384622",
+    "whatsapp": "71986384622",
+    "email": "Fonseca65@live.com",
+    "valor": "Social",
+    "servicos": [
+      "Terapia individual"
+    ],
+    "descricao_servicos": "Psicoterapia ",
+    "mapa": "",
+    "video": "",
+    "bairros_atendidos": "",
+    "crp": "03/22426",
+    "crm": "",
+    "id": "PATRICIA-dos-santos-da-Fonseca-8f5",
+    "ativo": true
+  },
+  {
+    "nome": "Clóvis Couto Barreto Júnior",
+    "end": "Avenida Sete,Edificio Politécnica (Sala 98B) Salvador-Ba. @EspaçoVital, Salvador, Bahia, Brazil, 40411366",
+    "tel": "(71)99211-2845",
+    "whatsapp": "(71)99211-2845",
+    "email": "cloviscpm1@hotmail.com",
+    "valor": "A combinar",
+    "servicos": [
+      "Terapia individual",
+      "Online",
+      "Planos de saúde - Psicologos",
+      "Terapia Conjugal",
+      "Álcool e outras drogas"
+    ],
+    "descricao_servicos": "A psicologia clínica é a área de atuação da psicologia que lida com a psicoterapia, avaliação, diagnóstico e tratamento das Doenças psicossomáticas. Missão Promover a saúde Mental ao habito da psicoterapia e auxilio psicológico e enfrentamentos emocionais e psicopatologias.",
+    "mapa": "",
+    "video": "",
+    "bairros_atendidos": "",
+    "crp": "CRP03/13147",
+    "crm": "",
+    "id": "Clovis-Couto-Barreto-Junior-b9a",
+    "ativo": true
+  },
+  {
+    "nome": "Danilo Santos de Jesus",
+    "end": "On line",
+    "tel": "71987729i16",
+    "whatsapp": "71982729816",
+    "email": "Daniloebenezer@yahoo.com.br",
+    "valor": "Valor a negociar",
+    "servicos": [
+      "Terapia individual",
+      "Online",
+      "Emergência Psiquiátrica",
+      "Crianças e adolescentes",
+      "Terapia individual",
+      "Planos de saúde - Psicologos"
+    ],
+    "descricao_servicos": "Psicólogo clínico\nEspecialista em Terapia Cognitivo Comportamental / Instrutor de Mindfullnes ( atenção plena / meditação)",
+    "mapa": "",
+    "video": "",
+    "bairros_atendidos": "On line",
+    "crp": "03/17883",
+    "crm": "",
+    "id": "Danilo-santos-de-Jesus-f4b",
+    "ativo": true
+  },
+  {
+    "nome": "Fernanda Silva Baqueiro Batista",
+    "end": "Rua Alceu Amoroso Lima, 276, sala 608, Caminho das Árvores, Salvador, Bahia",
+    "tel": "(71) 999618527",
+    "whatsapp": "(71)999618527",
+    "email": "fernandabaqueiro@gmail.com",
+    "valor": "A combinar",
+    "servicos": [
+      "Planos de saúde - Psicologos",
+      "Online",
+      "Terapia individual",
+      "Crianças e adolescentes"
+    ],
+    "descricao_servicos": "Psicanálise, orientação aos pais",
+    "mapa": "",
+    "video": "",
+    "bairros_atendidos": "",
+    "crp": "03/5258",
+    "crm": "",
+    "id": "Fernanda-Silva-Baqueiro-Batista-022",
+    "ativo": true
+  },
+  {
+    "nome": "Marco Vinícius Sadock",
+    "end": "Avenida 7 de setembro, Fundação Politécnica, 400, ala B, 9o andar, sala 98",
+    "tel": "71987015802",
+    "whatsapp": "71987015802",
+    "email": "marcosadock@gmail.com",
+    "valor": "Negociável",
+    "servicos": [
+      "Terapia individual",
+      "Online",
+      "Álcool e outras drogas"
+    ],
+    "descricao_servicos": "Consulta psicológica, acompanhamento psicoterapêutico, Hipnose Clínica",
+    "mapa": "",
+    "video": "",
+    "bairros_atendidos": "",
+    "crp": "03/15593",
+    "crm": "",
+    "id": "Marco-Vinicius-Sadock-1ed",
+    "ativo": true
+  },
+  {
+    "nome": "Ana Paula Maciel Santos Neris",
+    "end": "Rua Alceu Amoroso Lima,Avenida Tancredo Neves, 470. ",
+    "tel": "7132384083",
+    "whatsapp": "71986028020",
+    "email": "",
+    "valor": "A combinar",
+    "servicos": [
+      "Crianças e adolescentes",
+      "Online",
+      "Terapia individual"
+    ],
+    "descricao_servicos": "Atendimento psicoterapêutico individual na modalidade online, presencial e home Care para crianças, adolescentes e adultos. ",
+    "mapa": "",
+    "video": "",
+    "bairros_atendidos": "",
+    "crp": "03/19556",
+    "crm": "",
+    "id": "Ana-Paula-Maciel-Santos-Neris-145",
+    "ativo": true
+  },
+  {
+    "nome": "Thamires silva",
+    "end": "Luís Tarquinio- Vilas do atlântico, Lauro de Freitas e em Camaçari. Atendimento online  ",
+    "tel": "71992564427",
+    "whatsapp": "71992564427",
+    "email": "Thamires.psi01@gmail.com",
+    "valor": "Valo social",
+    "servicos": [
+      "Terapia individual",
+      "Crianças e adolescentes",
+      "Online",
+      "Planos de saúde - Psicologos",
+      "Terapia Conjugal"
+    ],
+    "descricao_servicos": "Acompanhamento psicológico com crianças e adolescentes, adultos e idoso. Atendo na abordagem TCC ( terapia cognitiva comportamental).  Depressão, ansiedade, fobias,TOD, Autismo. Atendimento online.",
+    "mapa": "",
+    "video": "",
+    "bairros_atendidos": "",
+    "crp": "03/17618",
+    "crm": "",
+    "id": "Thamires-silva-c2f",
+    "ativo": true
+  },
+  {
+    "nome": "Sofia Luque Funes",
+    "end": "",
+    "tel": "24981307951",
+    "whatsapp": "24981307951",
+    "email": "luquefunessofia@gmail.com",
+    "valor": "Valor social",
+    "servicos": [
+      "Online"
+    ],
+    "descricao_servicos": "Psicanalista. Atendimento online. Bilíngue (espanhol, português)",
+    "mapa": "",
+    "video": "",
+    "bairros_atendidos": "",
+    "crp": "05/59020",
+    "crm": "",
+    "id": "Sofia-Luque-Funes-4be",
+    "ativo": true
+  },
+  {
+    "nome": "Adriana de Almeida Soares",
+    "end": "",
+    "tel": "(21)976788324",
+    "whatsapp": "(21)976788324",
+    "email": "",
+    "valor": "60",
+    "servicos": [
+      "Online",
+      "Terapia individual"
+    ],
+    "descricao_servicos": "",
+    "mapa": "",
+    "video": "",
+    "bairros_atendidos": "Online",
+    "crp": "05/61513",
+    "crm": "",
+    "id": "Adriana-de-Almeida-Soares-55e",
     "ativo": true
   }
 ]
