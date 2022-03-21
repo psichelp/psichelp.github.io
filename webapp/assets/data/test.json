@@ -2108,5 +2108,43 @@
     "crm": "",
     "ativo": true,
     "id": "Simone-Matos-1cf"
+  },
+  {
+    "nome": "Evandro Magalhães Leite Júnior",
+    "end": "Alameda Florença, 137",
+    "tel": "+5571982864766",
+    "whatsapp": "",
+    "email": "evandrojr@gmail.com",
+    "valor": "",
+    "servicos": [
+      "Crianças e adolescentes"
+    ],
+    "descricao_servicos": "",
+    "mapa": "",
+    "video": "",
+    "bairros_atendidos": "",
+    "crp": "",
+    "crm": "",
+    "id": "Evandro-Magalhaes-Leite-Junior-516",
+    "ativo": false
+  },
+  {
+    "nome": "j",
+    "end": "",
+    "tel": "",
+    "whatsapp": "07/09/1977",
+    "email": "",
+    "valor": "",
+    "servicos": [
+      "Crianças e adolescentes"
+    ],
+    "descricao_servicos": "",
+    "mapa": "",
+    "video": "",
+    "bairros_atendidos": "",
+    "crp": "",
+    "crm": "",
+    "id": "j-d43",
+    "ativo": false
   }
 ]

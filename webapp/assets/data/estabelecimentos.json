@@ -1393,26 +1393,6 @@
     "id": "CILENE-FONSECA-36f"
   },
   {
-    "nome": "Priscila Dantas",
-    "end": "",
-    "tel": "",
-    "whatsapp": "71985084258",
-    "email": "",
-    "valor": "Gratuito",
-    "servicos": [
-      "Crianças e adolescentes",
-      "LGBT"
-    ],
-    "descricao_servicos": "",
-    "mapa": "",
-    "video": "",
-    "bairros_atendidos": "Ribeira, Massaranduba, itapagipe",
-    "crp": "",
-    "crm": "",
-    "ativo": true,
-    "id": "Priscila-Dantas-5de"
-  },
-  {
     "nome": "ALCOÓLICOS ANÔNIMOS - GRUPO HARMONIA - PITUBA",
     "end": "R. Minas Gerais, 634 - Pituba - CEP 41830-020",
     "tel": "(71) 3322-7797",
@@ -2194,7 +2174,7 @@
   },
   {
     "nome": "Priscila Freitas",
-    "end": "Centro médico da Graça",
+    "end": "Itaigara",
     "tel": "71992461817",
     "whatsapp": "71992461817",
     "email": "psicologapriscilafreitas@hotmail.com",
@@ -2204,7 +2184,7 @@
       "Terapia individual"
     ],
     "descricao_servicos": "Atendimento individual baseada na terapia cognitiva comportamental. Experiência com crianças com diagnóstico de transtorno do espectro autista. Terapia ABA com atendimento domiciliar.",
-    "mapa": "<iframe src='https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15550.437746354999!2d-38.5207343!3d-12.996814!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xd996fbdc9d6ab4ef!2sCentro%20M%C3%A9dico%20da%20Gra%C3%A7a!5e0!3m2!1spt-BR!2sbr!4v1575453039676!5m2!1spt-BR!2sbra' width='100%' height='450' frameborder='0' style='border:0;' allowfullscreen=''></iframe>",
+    "mapa": "",
     "video": "",
     "bairros_atendidos": "",
     "crp": "03/15983",
@@ -2374,10 +2354,10 @@
     "ativo": true
   },
   {
-    "nome": "NAYARA STEFENONI KUSTER",
+    "nome": "Nayara Stefenoni Kuster",
     "end": "Avenida Brasil, Maria das Graças, Colatina/ES",
-    "tel": "27999114745",
-    "whatsapp": "27999114745",
+    "tel": "27 999190635",
+    "whatsapp": "27 999190635",
     "email": "sknayara@gmail.com",
     "valor": "Valor social",
     "servicos": [
@@ -2787,7 +2767,6 @@
     "email": "",
     "valor": "Social",
     "servicos": [
-      "Online",
       "Terapia individual"
     ],
     "descricao_servicos": "",
@@ -2797,7 +2776,7 @@
     "crp": "05/61513",
     "crm": "",
     "id": "Adriana-de-Almeida-Soares-55e",
-    "ativo": true
+    "ativo": false
   },
   {
     "nome": "Viviane Passos",
@@ -2921,6 +2900,152 @@
     "crp": "03/17618",
     "crm": "",
     "id": "Thamires-Silva-6ff",
+    "ativo": true
+  },
+  {
+    "nome": "Patrícia dos santos da Fonseca",
+    "end": "",
+    "tel": "",
+    "whatsapp": "71986384622",
+    "email": "fonseca65@live.com",
+    "valor": "A combinar",
+    "servicos": [
+      "Terapia individual"
+    ],
+    "descricao_servicos": "Acompanhamento psicológico",
+    "mapa": "",
+    "video": "",
+    "bairros_atendidos": "",
+    "crp": "03/22426",
+    "crm": "",
+    "id": "Patricia-dos-santos-da-Fonseca-c5e",
+    "ativo": true
+  },
+  {
+    "nome": "Leandro Candido",
+    "end": "",
+    "tel": "41997372026",
+    "whatsapp": "41997372026",
+    "email": "leandrocandido.psi@gmail.com",
+    "valor": "40,00",
+    "servicos": [
+      "Terapia individual",
+      "Online",
+      "LGBT",
+      "Terapia Conjugal"
+    ],
+    "descricao_servicos": "Psicoterapeuta , atendimento psicoterápico",
+    "mapa": "",
+    "video": "",
+    "bairros_atendidos": "",
+    "crp": "",
+    "crm": "",
+    "id": "Leandro-Candido-d01",
+    "ativo": true
+  },
+  {
+    "nome": "Glaucia Helena Dias Gonçalves",
+    "end": "São Paulo capital",
+    "tel": "11.989293369",
+    "whatsapp": "11989293369",
+    "email": "ghdiasgoncalves@gmail.com",
+    "valor": "R$50,00 (cincoenta reais)",
+    "servicos": [
+      "Online",
+      "Crianças e adolescentes",
+      "Terapia individual",
+      "Planos de saúde - Psicologos",
+      "LGBT"
+    ],
+    "descricao_servicos": "\nPrograma de Atendimento Psicológico Saúde Emocional da Mulher 🌹 Ansiedade /Autoestima/Depressão e Sexualidade. Psicoterapia breve - atendimento especializado à mulher - autoconhecimento - autoamor\nSessões:💻📱 online apenas \n⌚50 minutos\n💰Valor social",
+    "mapa": "",
+    "video": "",
+    "bairros_atendidos": "",
+    "crp": "06/93960",
+    "crm": "",
+    "id": "Glaucia-Helena-Dias-Goncalves-058",
+    "ativo": true
+  },
+  {
+    "nome": "Suélen Martem ",
+    "end": "",
+    "tel": "",
+    "whatsapp": "71 98837-9978 ",
+    "email": "psi.suelenmartem@gmail.com",
+    "valor": "A negociar com cliente! ",
+    "servicos": [
+      "Terapia individual"
+    ],
+    "descricao_servicos": "Atendimento somente on-line para adultos e idosos. \nAtendo pessoas em processo de perdas e lutos.\nAtendo pessoas que estão ou estiveram em relacionamento abusivo.\nSaúde Mental pop negra e LGBTQIA+",
+    "mapa": "",
+    "video": "",
+    "bairros_atendidos": "",
+    "crp": "CRP03/7469",
+    "crm": "",
+    "id": "Suelen-Martem-564",
+    "ativo": false
+  },
+  {
+    "nome": "Mônica Mendes",
+    "end": "Dorival caimi Itapuã",
+    "tel": "71987210772",
+    "whatsapp": "71987210772",
+    "email": "psi.monicamendes@gmail.com",
+    "valor": "A combinar e social",
+    "servicos": [
+      "Terapia individual",
+      "Online",
+      "Crianças e adolescentes"
+    ],
+    "descricao_servicos": "Psicoterapia com adolescente, jovem e adulto e casal",
+    "mapa": "",
+    "video": "",
+    "bairros_atendidos": "",
+    "crp": "003/21469",
+    "crm": "",
+    "id": "Monica-Mendes-d78",
+    "ativo": false
+  },
+  {
+    "nome": "Pablo Rafael Lopes guivara",
+    "end": "",
+    "tel": "",
+    "whatsapp": "95991708449",
+    "email": "pablorafaelguivara@gmail.com",
+    "valor": "",
+    "servicos": [
+      "Emergência Psiquiátrica",
+      "Online",
+      "Terapia individual",
+      "Orientação Profissional",
+      "Medicamentos gratúitos"
+    ],
+    "descricao_servicos": "",
+    "mapa": "",
+    "video": "",
+    "bairros_atendidos": "Santa Teresa",
+    "crp": "",
+    "crm": "",
+    "id": "Pablo-Rafael-Lopes-guivara-ebb",
+    "ativo": false
+  },
+  {
+    "nome": "teste jr",
+    "end": "Alameda Florença, 137",
+    "tel": "+5571982864766",
+    "whatsapp": "",
+    "email": "evandrojr@gmail.com",
+    "valor": "",
+    "servicos": [
+      "CAPS"
+    ],
+    "descricao_servicos": "",
+    "mapa": "",
+    "video": "",
+    "bairros_atendidos": "",
+    "crp": "",
+    "crm": "",
+    "id": "teste-jr-86b",
     "ativo": true
   }
 ]
