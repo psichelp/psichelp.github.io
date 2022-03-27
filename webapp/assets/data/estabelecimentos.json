@@ -2927,7 +2927,7 @@
     "tel": "41997372026",
     "whatsapp": "41997372026",
     "email": "leandrocandido.psi@gmail.com",
-    "valor": "40,00",
+    "valor": "Valor social",
     "servicos": [
       "Terapia individual",
       "Online",
@@ -2949,7 +2949,7 @@
     "tel": "11.989293369",
     "whatsapp": "11989293369",
     "email": "ghdiasgoncalves@gmail.com",
-    "valor": "R$50,00 (cincoenta reais)",
+    "valor": "Valor social",
     "servicos": [
       "Online",
       "Crianças e adolescentes",
@@ -3027,6 +3027,25 @@
     "crp": "",
     "crm": "",
     "id": "Pablo-Rafael-Lopes-guivara-ebb",
+    "ativo": true
+  },
+  {
+    "nome": "Renan Vigari Vento ",
+    "end": "",
+    "tel": "",
+    "whatsapp": "11 98944 0933",
+    "email": "contatorenanvigari@gmail.com",
+    "valor": "Valor social",
+    "servicos": [
+      "Online"
+    ],
+    "descricao_servicos": "Psicoterapia online com atendimento social. Sessões de psicoterapia com duração de 40 minutos, uma sessão por semana. Depressão, ansiedade, conflitos familiares e de relacionamentos, acompanhamento psicológico. Tenha mais qualidade de vida, priorize sua saúde mental.",
+    "mapa": "",
+    "video": "",
+    "bairros_atendidos": "",
+    "crp": "06/158841",
+    "crm": "",
+    "id": "Renan-Vigari-Vento-936",
     "ativo": true
   }
 ]
