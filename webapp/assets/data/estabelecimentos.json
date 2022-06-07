@@ -2715,5 +2715,28 @@
     "crm": "",
     "id": "Renan-Vigari-Vento-936",
     "ativo": true
+  },
+  {
+    "nome": "Marcela Conceição Sanches Maranhão",
+    "end": "",
+    "tel": "+5571987060820",
+    "whatsapp": "71987060820",
+    "email": "marcelasmaranhao@gmail.com",
+    "valor": "A combinar. Podendo ser totalmente ou parcialmente reembolsável pelo plano de saúde",
+    "servicos": [
+      "LGBT",
+      "Terapia individual",
+      "Online",
+      "Crianças e adolescentes"
+    ],
+    "descricao_servicos": "Psicoterapia individual - crianças, adolescentes e adultos",
+    "mapa": "",
+    "video": "",
+    "bairros_atendidos": "",
+    "crp": "03/7885",
+    "crm": "",
+    "termos": true,
+    "id": "Marcela-Conceicao-Sanches-Maranhao-013",
+    "ativo": true
   }
 ]
