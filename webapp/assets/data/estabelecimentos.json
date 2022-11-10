@@ -1402,8 +1402,8 @@
     "servicos": [
       "Álcool e outras drogas"
     ],
-    "descricao_servicos": "Você irá aprender a viver e redescobrir que tudo pode ser muito melhor. Por favor, se dê uma chance!\n\nHorário de funcionamento: De segunda a sexta, às 19:00hrs Sábado - 10:00hrs/17:30hrs Domingo - 10:00hrs",
-    "mapa": "",
+    "descricao_servicos": "Você irá aprender a viver e redescobrir que tudo pode ser muito melhor. Por favor, se dê uma chance!\n\nHorários de funcionamento:\n\nDe segunda a sexta: 18:00 às 20:00\nSábado: 10:00 às 12:00 e 16:00 às 18:00\nDomingo: 10:00 às 12:00",
+    "mapa": "<iframe src='https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15549.79300368104!2d-38.4602454!3d-13.0071023!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x385a945cd59d1332!2sA.%20A.%20Grupo%20Harmonia%20-%2026!5e0!3m2!1spt-BR!2sbr!4v1668039877949!5m2!1spt-BR!2sbr' width='100%' height='450' style='border:0;' allowfullscreen=' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
     "video": "",
     "bairros_atendidos": "",
     "crp": "",
