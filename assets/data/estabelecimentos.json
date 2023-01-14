@@ -3135,6 +3135,29 @@
     "crm": "",
     "id": "Ceadi-1d5",
     "ativo": true
+  },
+  {
+    "nome": "Adriana de Jesus Caldas",
+    "end": "SALVADR",
+    "tel": "7198818-5207",
+    "whatsapp": "7198818-5207",
+    "email": "ADRIANACALDASPSICOLOGA@GMAIL.COM",
+    "valor": "Valo social",
+    "servicos": [
+      "Terapia individual",
+      "Planos de saúde - Psicologos",
+      "Terapia Conjugal",
+      "Terapia Familiar",
+      "Terapia de Grupo"
+    ],
+    "descricao_servicos": "Sou psicóloga clínica, com especialização em terapia cognitivo comportamental (TCC). Atendo presencial e on-line. Adolescentes, jovens, adultos e idosos.",
+    "mapa": "",
+    "video": "",
+    "bairros_atendidos": "",
+    "crp": "",
+    "crm": "03/22994",
+    "termos": true,
+    "id": "adriana-de-jesus-caldas-7a9",
+    "ativo": true
   }
-
 ]
