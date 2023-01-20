@@ -3159,5 +3159,30 @@
     "termos": true,
     "id": "adriana-de-jesus-caldas-7a9",
     "ativo": true
+  },
+  {
+    "nome": "Anna Cláudia Rodrigues Coalho",
+    "end": "Av. Luiz Boitex Piazza,4214",
+    "tel": "67 996687769",
+    "whatsapp": "67 996687769",
+    "email": "annacrcoalho@gmail.com",
+    "valor": "A combinar",
+    "servicos": [
+      "Terapia individual",
+      "Terapia Conjugal",
+      "Terapia Familiar",
+      "Orientação Profissional",
+      "LGBT",
+      "Crianças e adolescentes",
+      "Emergência Psiquiátrica"
+    ],
+    "descricao_servicos": "Atendo como psicóloga e terapeuta em constelação familiar  e biossistemica. Oriento pais. Sou especialista em avaliação psicológica e orientação vocacional. ",
+    "mapa": "",
+    "video": "",
+    "bairros_atendidos": "CACHOEIRA DO BOM JESUS, CANASVIEIRAS, PONTA DAS CANAS",
+    "crp": "14/06624-5",
+    "crm": "",
+    "id": "Anna-Claudia-Rodrigues-Coalho-ba2",
+    "ativo": true
   }
 ]
