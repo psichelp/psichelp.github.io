@@ -3184,5 +3184,65 @@
     "crm": "",
     "id": "Anna-Claudia-Rodrigues-Coalho-ba2",
     "ativo": true
+  },
+  {
+    "nome": "ÍON - Bahia",
+    "end": " Rua Professor Sabino Silva, 549 - Jardim Apipema, Salvador | BA, CEP: 40155-250",
+    "tel": "71 3235-4236 / 3336-2699",
+    "whatsapp": "",
+    "email": "ionba@ionba.org.br",
+    "valor": "Gratúito",
+    "servicos": [
+      "TEA"
+    ],
+    "descricao_servicos": "Fundado em 19 de dezembro de 1967, o Instituto de Organização Neurológica da Bahia, é uma sociedade civil, sem fins lucrativos de natureza filantrópica, atuante no território nacional, regida pelo estatuto e pelas normas legais atinentes e sua natureza institucional.\n\nDestinada a atender pessoas portadoras de deficiência nas áreas de Assistência Social, Saúde e Educação.\n\n\nTem como finalidade atender as pessoas com deficiência intelectual e múltiplas deficiências, em sua várias expressões, prevenindo e/ou minimizando efeitos já diagnosticados mediante tratamento bem como acolhimento às suas famílias.\n\nO ION tem como objetivos estabelecer padrões de atendimento que levem em consideração as capacidades, potencialidades e singularidades de cada indivíduo atendido, visando promover a mudanças, gerando estímulos e buscando garantir uma efetiva integração e interação entre os serviços das áreas de Educação, Saúde e Assistência Social.",
+    "mapa": "",
+    "video": "",
+    "bairros_atendidos": "",
+    "crp": "",
+    "crm": "",
+    "termos": true,
+    "id": "ION-Bahia-2b5",
+    "ativo": true
+  },
+  {
+    "nome": "CRE-TEA - Centro de Referência Estadual para Pessoas com Transtorno do Espectro Autista",
+    "end": "Praça Dois de Julho, Largo do Campo Grande, 36, Salvador - BA, 40275-350",
+    "tel": " (71) 3336-6147",
+    "whatsapp": "",
+    "email": "",
+    "valor": "Gratúito",
+    "servicos": [
+      "TEA"
+    ],
+    "descricao_servicos": "O CRE-TEA conta com uma estrutura física composta por 08 (oito) salas de atendimento, equipadas com materiais terapêuticos, além de área externa para desenvolvimento de atividades de interação e Núcleo de Ensino e Pesquisa que desenvolve ações de capacitação de profissionais de saúde e educação que atuam no âmbito do SUS com pacientes com TEA.\n\nAtualmente a unidade assiste a 220 pacientes nas terapias, com equipe multiprofissional e acompanhamento com médicos psiquiatras e neuropediatras.\n\nFuncionamento\n\nSegunda a sexta, das 9h às 17h\n\nCritérios para matrícula\n\nÉ necessário vir ao CRE-TEA que está localizado no Campo Grande.  Nosso horário de funcionamento para cadastramento para entrar na fila de  espera é de segunda a sexta de 8h às 9h e de 13h às 14h. É importante que se tenha um relatório com suspeita ou confirmação do diagnóstico.\n\nSobre o CRE-TEA\nFundado em 2016, o Centro de Referência Estadual para Pessoas com Transtorno do Espectro Autista (CRE-TEA), pioneiro no país, tem mantido o apoio matricial como um dos seus principais objetivos. O CRE-TEA é resultado de uma parceria da Liga Álvaro Bahia Contra a Mortalidade Infantil (LABCMI) com a Secretaria da Saúde do Estado da Bahia (SESAB). A unidade funciona no prédio que foi doado à entidade, no bairro do Campo Grande, em Salvador, onde funcionou a antiga Escola de Puericultura Raymundo Pereira de Magalhães.\n\nO CRE-TEA é um serviço docente-assistencial que tem como objetivo geral ampliar o acesso da pessoa com Transtorno do Espectro Autista (TEA) à Atenção Especializada no Sistema Único de Saúde (SUS) na Bahia. Visa assegurar assistência universal e gratuita a esse público, observando os princípios e legislações do SUS. A unidade realiza atendimento multiprofissional e interdisciplinar para esses indivíduos, conforme o que preconiza a Rede de Atenção Psicossocial (RAPS) e a Rede de Cuidados à Pessoa com Deficiência (RCPD).",
+    "mapa": "",
+    "video": "",
+    "bairros_atendidos": "",
+    "crp": "",
+    "crm": "",
+    "termos": true,
+    "id": "CRE-TEA-Centro-de-Referencia-Estadual-para-Pessoas-com-Transtorno-do-Espectro-Autista-2d4",
+    "ativo": true
+  },
+  {
+    "nome": "Ana Luíza Barreiros da Motta",
+    "end": "",
+    "tel": "2265-1451",
+    "whatsapp": "(21)99583-4775",
+    "email": "abarreirosdamotta@gmail.com",
+    "valor": "Valor social",
+    "servicos": [
+      "Terapia individual"
+    ],
+    "descricao_servicos": "Eu sou uma psicóloga com dez anos de experiências em atendimentos com pacientes com esquizofrenia. Eu já participei de atendimentos em grupo e também individuais com mulheres vítimas de violência doméstica, e tenho experiências com trabalhos com adolescentes e jovens. E faço parte de um grupo de contação de histórias num espaço clínico.",
+    "mapa": "",
+    "video": "",
+    "bairros_atendidos": "",
+    "crp": "05/40748",
+    "crm": "",
+    "termos": true,
+    "id": "Ana-Luiza-Barreiros-da-Motta-a03",
+    "ativo": true
   }
 ]
