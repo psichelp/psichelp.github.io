@@ -3244,5 +3244,46 @@
     "termos": true,
     "id": "Ana-Luiza-Barreiros-da-Motta-a03",
     "ativo": true
+  },
+  {
+    "nome": "Monalisa Silva Soares",
+    "end": "Purcina Cândida de figueiredo ",
+    "tel": "35988128532",
+    "whatsapp": "35988128532",
+    "email": "monapsico.33@gmail.com",
+    "valor": "Valor Social (bem abaixo do que é cobrado normalmente)",
+    "servicos": [
+      "Online",
+      "Crianças e adolescentes"
+    ],
+    "descricao_servicos": "Psicopedagoga e Psicanalista ",
+    "mapa": "",
+    "video": "",
+    "bairros_atendidos": "",
+    "crp": "",
+    "crm": "",
+    "termos": true,
+    "id": "Monalisa-Silva-Soares-ddb",
+    "ativo": false
+  },
+  {
+    "nome": "Débora dos Santos Aragão",
+    "end": "",
+    "tel": "",
+    "whatsapp": "11910895948",
+    "email": "psico.deboraaragao@outlook.com",
+    "valor": "Valor social",
+    "servicos": [
+      "Online"
+    ],
+    "descricao_servicos": "Realizo apenas atendimento online, visto aos seus benefícios, tanto para paciente e tanto para o profissional, dentre eles: poder fazer de onde estiver, não precisa sair de casa, evitar gastos e otimizar seu tempo . \nA psicoterapia ela irá te ajudar a busca do autoconhecimento gerando como resultados qualidade de vida. Como terapeuta cognitiva comportamental acredito que \" Não são os fatos em si, mas como interpretamos os fatos que nos causam sofrimento\".",
+    "mapa": "",
+    "video": "",
+    "bairros_atendidos": "",
+    "crp": "06/171072",
+    "crm": "",
+    "termos": true,
+    "id": "Debora-dos-Santos-Aragao-b30",
+    "ativo": true
   }
 ]
