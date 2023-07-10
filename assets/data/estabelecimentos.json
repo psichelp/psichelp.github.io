@@ -2180,6 +2180,7 @@
     "email": "psicologapriscilafreitas@hotmail.com",
     "valor": "A combinar, com possibilidade de reembolso pelo plano de saúde.",
     "servicos": [
+      "TEA",
       "Crianças e adolescentes",
       "Terapia individual"
     ],
@@ -2957,7 +2958,7 @@
       "Planos de saúde - Psicologos",
       "LGBTQIAP+"
     ],
-    "descricao_servicos": "\nPrograma de Atendimento Psicológico Saúde Emocional da Mulher 🌹 Ansiedade /Autoestima/Depressão e Sexualidade. Psicoterapia breve - atendimento especializado à mulher - autoconhecimento - autoamor\nSessões:💻📱 online apenas \n⌚50 minutos\n💰Valor social",
+    "descricao_servicos": "Programa de Atendimento Psicológico Saúde Emocional da Mulher 🌹 Ansiedade /Autoestima/Depressão e Sexualidade. Psicoterapia breve - atendimento especializado à mulher - autoconhecimento - autoamor\nSessões:💻📱 online apenas \n⌚50 minutos\n💰Valor social",
     "mapa": "",
     "video": "",
     "bairros_atendidos": "",
@@ -3251,12 +3252,11 @@
     "tel": "35988128532",
     "whatsapp": "35988128532",
     "email": "monapsico.33@gmail.com",
-    "valor": "Valor Social (bem abaixo do que é cobrado normalmente)",
+    "valor": "Valor Social",
     "servicos": [
-      "Online",
-      "Crianças e adolescentes"
+      "TEA"
     ],
-    "descricao_servicos": "Psicopedagoga e Psicanalista ",
+    "descricao_servicos": "Psicopedagoga para tramento de autismo método Teachh",
     "mapa": "",
     "video": "",
     "bairros_atendidos": "",
@@ -3264,7 +3264,7 @@
     "crm": "",
     "termos": true,
     "id": "Monalisa-Silva-Soares-ddb",
-    "ativo": false
+    "ativo": true
   },
   {
     "nome": "Débora dos Santos Aragão",
@@ -3285,5 +3285,132 @@
     "termos": true,
     "id": "Debora-dos-Santos-Aragao-b30",
     "ativo": true
+  },
+  {
+    "nome": "Cintia Vieira de Toledo",
+    "end": "",
+    "tel": "11965824152",
+    "whatsapp": "11965824152",
+    "email": "Psicologacintiatoledo@gmail.com",
+    "valor": "Valor social",
+    "servicos": [
+      "Online",
+      "Crianças e adolescentes",
+      "Planos de saúde - Psicologos",
+      "Terapia individual"
+    ],
+    "descricao_servicos": "Atendimento a baixo custo, consulta via plano de saúde ou com pacotes a serem combinados. Atendo adolescentes jovens e adultos.",
+    "mapa": "",
+    "video": "",
+    "bairros_atendidos": "",
+    "crp": "06/189639",
+    "crm": "",
+    "termos": true,
+    "id": "Cintia-vieira-de-toledo-4bc",
+    "ativo": true
+  },
+  {
+    "nome": "Érica Brollo Lima",
+    "end": "",
+    "tel": "19998963499",
+    "whatsapp": "19998963499",
+    "email": "erica.brollo@yahoo.com.br",
+    "valor": "Valor social",
+    "servicos": [
+      "Crianças e adolescentes"
+    ],
+    "descricao_servicos": "Psicoterapia on-line adolescentes, adultos e idosos abordagem Humanista",
+    "mapa": "",
+    "video": "",
+    "bairros_atendidos": "Campinas SP",
+    "crp": "06/190697",
+    "crm": "",
+    "termos": true,
+    "id": "Erica-Brollo-Lima-9b6",
+    "ativo": true
+  },
+  {
+    "nome": "CRP Não localizado no e-psi. Naiane Araujo - ",
+    "end": "Boulevard Side Empresarial Rua Ewerton Visco, 290 10° andar sala 1012 - Caminho das Árvores, Salvador - BA, 41820-022 (SPAZIO GESTAR)",
+    "tel": "71992344768",
+    "whatsapp": "71992344768",
+    "email": "naianearaujo.psi@gmail.com",
+    "valor": "A negociar com o paciente  / Planos de saúde ",
+    "servicos": [
+      "Terapia individual",
+      "Planos de saúde - Psicologos",
+      "Online"
+    ],
+    "descricao_servicos": "",
+    "mapa": "",
+    "video": "",
+    "bairros_atendidos": "",
+    "crp": "CRP 03/23411",
+    "crm": "",
+    "termos": true,
+    "id": "Naiane-Araujo-86a",
+    "ativo": false
+  },
+  {
+    "nome": "Michele Pinheiro Oliveira",
+    "end": "Impata, 882",
+    "tel": "11 993891200",
+    "whatsapp": "11 993891200",
+    "email": "Michelepfe212@gmail.com",
+    "valor": "Valor social",
+    "servicos": [
+      "Online",
+      "Planos de saúde - Psicologos",
+      "Terapia individual",
+      "Orientação Profissional"
+    ],
+    "descricao_servicos": "Psicanálise Clínica",
+    "mapa": "",
+    "video": "",
+    "bairros_atendidos": "",
+    "crp": "06/188990",
+    "crm": "",
+    "id": "Michele-Pinheiro-Oliveira-c81",
+    "ativo": true
+  },
+  {
+    "nome": "Luane Gomes Reis",
+    "end": "Rua Aracy Vilarinho",
+    "tel": "22997297484",
+    "whatsapp": "22997297484",
+    "email": "lg7reis@gmail.com",
+    "valor": "Valor social",
+    "servicos": [
+      "Terapia individual"
+    ],
+    "descricao_servicos": "Atendimento online através da Terapia Cognitivo-Comportamental ",
+    "mapa": "",
+    "video": "",
+    "bairros_atendidos": "",
+    "crp": "05/70635",
+    "crm": "",
+    "id": "Luane-Gomes-Reis-7b5",
+    "ativo": true
+  },
+  {
+    "nome": "Angela Aragão de Carvalho",
+    "end": "",
+    "tel": "",
+    "whatsapp": "",
+    "email": "angelaac.psi@gmail.com",
+    "valor": "Valor social",
+    "servicos": [
+      "Crianças e adolescentes",
+      "Terapia individual",
+      "Online"
+    ],
+    "descricao_servicos": "",
+    "mapa": "",
+    "video": "",
+    "bairros_atendidos": "",
+    "crp": "0328353",
+    "crm": "",
+    "id": "Angela-Aragao-de-Carvalho-bb0",
+    "ativo": false
   }
 ]
