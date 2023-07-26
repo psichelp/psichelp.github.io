@@ -198,6 +198,7 @@
       "Terapia Conjugal",
       "Terapia Familiar"
     ],
+    "crp": "0314140",
     "descricao_servicos": "Especialista em terapia cognitiva e comportamental especialista em terapia de casais e família. Atende todos os tipos de público.",
     "mapa": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3887.350434873425!2d-38.488727285177596!3d-13.013341890828519!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7160352df193b6b%3A0xaab13c28afd0e554!2sShopping+Rio+Vermelho!5e0!3m2!1spt-BR!2sbr!4v1532734618033' width='100%' height='450' frameborder='0' style='border:0' allowfullscreen></iframe>",
     "id": "Marcos-Alves-e38"
@@ -3028,7 +3029,7 @@
     "crp": "",
     "crm": "",
     "id": "Pablo-Rafael-Lopes-guivara-ebb",
-    "ativo": true
+    "ativo": false
   },
   {
     "nome": "Renan Vigari Vento ",
@@ -3395,22 +3396,43 @@
   {
     "nome": "Angela Aragão de Carvalho",
     "end": "",
-    "tel": "",
-    "whatsapp": "",
+    "tel": "74999235884",
+    "whatsapp": "74999235884",
     "email": "angelaac.psi@gmail.com",
     "valor": "Valor social",
     "servicos": [
-      "Crianças e adolescentes",
       "Terapia individual",
-      "Online"
+      "LGBT"
     ],
-    "descricao_servicos": "",
+    "descricao_servicos": "Psicóloga Clínico abordagem Psicanálise",
     "mapa": "",
     "video": "",
     "bairros_atendidos": "",
     "crp": "0328353",
     "crm": "",
-    "id": "Angela-Aragao-de-Carvalho-bb0",
+    "id": "Angela-Aragao-de-Carvalho-63f",
+    "ativo": true
+  },
+  {
+    "nome": "Érica Queirós da Silva",
+    "end": "",
+    "tel": "",
+    "whatsapp": "(71) 981600755",
+    "email": "queiroserica1@gmail.com",
+    "valor": "Social ",
+    "servicos": [
+      "Terapia individual",
+      "Online",
+      "Crianças e adolescentes"
+    ],
+    "descricao_servicos": "Atendimento psicoterapêutico online para adolescentes e adultos orientado pela psicanálise. ",
+    "mapa": "",
+    "video": "",
+    "bairros_atendidos": "",
+    "crp": "03/25616",
+    "crm": "",
+    "termos": true,
+    "id": "Erica-Queiros-da-Silva-5c2",
     "ativo": false
   }
 ]
