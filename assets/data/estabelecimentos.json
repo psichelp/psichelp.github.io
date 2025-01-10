@@ -3477,5 +3477,28 @@
     "termos": true,
     "id": "Jessica-Riso-Davino-060",
     "ativo": true
+  },
+  {
+    "nome": "Iolanda Galrão",
+    "end": "",
+    "tel": "(71)999255012",
+    "whatsapp": "(71)999255012",
+    "email": "iolandagalrao1@gmail.com",
+    "valor": "A combinar",
+    "servicos": [
+      "Yoga"
+    ],
+    "descricao_servicos": "Valorização de talentos: Projeto Qualidade de Vida na empresa mediante aulas de yoga laboral.\n\nDesenvolvimento Pessoal: Mentoria individual com foco em autoconhecimento. Aulas de yoga (individual e em grupo)",
+    "mapa": "",
+    "video": "",
+    "bairros_atendidos": "",
+    "crp": "",
+    "crm": "",
+    "termos": true,
+    "id": "Iolanda-Galrao-071",
+    "ativo": true
   }
+
+
+
 ]
