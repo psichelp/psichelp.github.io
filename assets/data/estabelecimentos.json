@@ -3455,5 +3455,27 @@
     "termos": true,
     "id": "Juliana-Cristina-b8c",
     "ativo": true
+  },
+  {
+    "nome": "Jessica Riso Davino",
+    "end": "Vereador Antônio Fernando Aranha",
+    "tel": "75997090464",
+    "whatsapp": "75997090464",
+    "email": "jessicarisodavino@gmail.com",
+    "valor": "120,00",
+    "servicos": [
+      "Orientação Profissional",
+      "Crianças e adolescentes",
+      "Terapia individual"
+    ],
+    "descricao_servicos": "",
+    "mapa": "",
+    "video": "",
+    "bairros_atendidos": "",
+    "crp": "03.30886",
+    "crm": "",
+    "termos": true,
+    "id": "Jessica-Riso-Davino-060",
+    "ativo": true
   }
 ]
