@@ -5,7 +5,14 @@
   <meta charset="utf-8">
   <title>PSICOHELP ajuda emocional para todos!</title>
   <!-- Para funcionar no APP Android -->
-  <meta http-equiv="Content-Security-Policy" content="default-src 'self' data: https://ssl.gstatic.com 'unsafe-eval'; style-src 'self' 'unsafe-inline'; media-src *; img-src 'self' data: content:;">
+  <!-- <meta http-equiv="Content-Security-Policy" content="default-src 'self' data: https://ssl.gstatic.com 'unsafe-eval'; style-src 'self' 'unsafe-inline'; media-src *; img-src 'self' data: content:;"> -->
+
+  <meta http-equiv="Content-Security-Policy"
+  content="default-src 'self' data: https://ssl.gstatic.com 'unsafe-eval' https://psimobi.fly.dev;
+          connect-src 'self' https://psimobi.fly.dev;
+          script-src 'self' 'unsafe-eval';
+          style-src 'self' 'unsafe-inline'">
+
   <meta name="format-detection" content="telephone=no">
   <meta name="msapplication-tap-highlight" content="no">
   <meta name="viewport" content="initial-scale=1, width=device-width, viewport-fit=cover">
@@ -31,6 +38,6 @@
 
 <body>
   <app-root></app-root>
-<script type="text/javascript" src="runtime.a66f828dca56eeb90e02.js"></script><script type="text/javascript" src="polyfills.7fb637d055581aa28d51.js"></script><script type="text/javascript" src="main.d68e1564d0eed841d998.js"></script></body>
+<script type="text/javascript" src="runtime.a66f828dca56eeb90e02.js"></script><script type="text/javascript" src="polyfills.7fb637d055581aa28d51.js"></script><script type="text/javascript" src="main.19010764be968b64d617.js"></script></body>
 
 </html>
