@@ -3497,7 +3497,27 @@
     "termos": true,
     "id": "Iolanda-Galrao-071",
     "ativo": false
-  }
+  },
+  {
+  "nome": "Juliano Santos",
+  "end": "Rua Pitombas 3090 S",
+  "tel": "65999746958",
+  "whatsapp": "65999746958",
+  "email": "jciebres@gmail.com",
+  "valor": "Social",
+  "servicos": [
+    "Online"
+  ],
+  "descricao_servicos": "Psicoterapia On-line ",
+  "mapa": "",
+  "video": "",
+  "bairros_atendidos": "",
+  "crp": "18/9424",
+  "crm": "",
+  "termos": true,
+  "id": "Juliano-Santos-cb1",
+  "ativo": true
+}
 
 
 
