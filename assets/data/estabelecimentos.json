@@ -3260,7 +3260,7 @@
     "descricao_servicos": "Atendimento a baixo custo, consulta via plano de saúde ou com pacotes a serem combinados. Atendo adolescentes jovens e adultos.",
     "mapa": "",
     "video": "",
-    "bairros_atendidos": "",
+    "bairros_atendidos": "Teste",
     "crp": "06/189639",
     "crm": "",
     "termos": true,
@@ -3499,26 +3499,23 @@
     "ativo": false
   },
   {
-  "nome": "Juliano Santos",
-  "end": "Rua Pitombas 3090 S",
-  "tel": "65999746958",
-  "whatsapp": "65999746958",
-  "email": "jciebres@gmail.com",
-  "valor": "Social",
-  "servicos": [
-    "Online"
-  ],
-  "descricao_servicos": "Psicoterapia On-line ",
-  "mapa": "",
-  "video": "",
-  "bairros_atendidos": "",
-  "crp": "18/9424",
-  "crm": "",
-  "termos": true,
-  "id": "Juliano-Santos-cb1",
-  "ativo": true
-}
-
-
-
+    "nome": "Juliano Santos",
+    "end": "Rua Pitombas 3090 S",
+    "tel": "65999746958",
+    "whatsapp": "65999746958",
+    "email": "jciebres@gmail.com",
+    "valor": "Social",
+    "servicos": [
+      "Online"
+    ],
+    "descricao_servicos": "Psicoterapia On-line ",
+    "mapa": "",
+    "video": "",
+    "bairros_atendidos": "",
+    "crp": "18/9424",
+    "crm": "",
+    "termos": true,
+    "id": "Juliano-Santos-cb1",
+    "ativo": true
+  }
 ]
