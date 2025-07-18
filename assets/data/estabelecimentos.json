@@ -2836,7 +2836,8 @@
     "id": "Dianine-de-Oliveira-Farias-d8b",
     "ativo": true,
     "instagram": "",
-    "tiktok": ""
+    "tiktok": "",
+    "ativo": false
   },
   {
     "nome": "Thamires Santos da Silva",
@@ -4183,7 +4184,7 @@
     "servicos": [
       "Yoga",
       "Reiki",
-      "Práticas Integrativas e Complementares em Saúde"
+      "Práticas Integrativas"
     ],
     "descricao_servicos": "Serviço de acolhimento à toda comunidade UFBA sem necessidade de agendamento. Aromaterapia, escuta sensível, reflexoterapia, yoga do risco, reiki, cromoterapia, etc. Horário de atendimento: Sextas-feiras, das 09h30 às 11h30. Gratuito.",
     "id": "cuidadoteca-ufba"
@@ -4437,7 +4438,7 @@
     "end": "Ambulatório Magalhães Neto Núcleo de Práticas Integrativas R. Padre Feijó, 240, Canela.",
     "servicos": [
       "Meditação",
-      "Práticas Integrativas e Complementares em Saúde"
+      "Práticas Integrativas"
     ],
     "descricao_servicos": "Consultar datas (geralmente às segundas-feiras) 14h às 15h",
     "id": "meditacao-reducao-stress-promocao-saude"
