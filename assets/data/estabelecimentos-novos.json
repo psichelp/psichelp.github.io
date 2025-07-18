@@ -1,0 +1,78 @@
+[
+  {
+    "ativo": true,
+    "nome": "Instituto Humanitas",
+    "end": "R. Alagoinhas, 189 - Rio Vermelho .",
+    "tel": "(71) 99105-0606",
+    "servicos": [],
+    "descricao_servicos": "Sem valor estipulado. Varia de acordo com as condições do paciente. Agendamento via whatsapp.",
+    "id": "instituto-humanitas"
+  },
+  {
+    "ativo": true,
+    "nome": "Projeto Afecto Psicologia",
+    "end": "Ed. Golden Plaza, Av. Antônio Carlos Magalhães, sala 307. Parque Bela Vista",
+    "tel": "(71)987548274, (71)986658729",
+    "servicos": [
+      "Terapia individual",
+      "Crianças e adolescentes"
+    ],
+    "descricao_servicos": "Atendimento individual R$ 80,00 por sessão. crianças e adultos.",
+    "id": "projeto-afecto-psicologia"
+  },
+  {
+    "ativo": true,
+    "nome": "Projeto Girassol Psicoterapia Social",
+    "end": "Rua Bahia, n. 450, Pituba.",
+    "tel": "(71) 99982-1414",
+    "servicos": [
+      "Terapia individual"
+    ],
+    "descricao_servicos": "Psicoterapia social R$ 80,00",
+    "id": "projeto-girassol-psicoterapia-social"
+  },
+  {
+    "ativo": true,
+    "nome": "PSIQUÊ Psicologia Analítica",
+    "end": "Rua Amazonas, 172, Pituba.",
+    "tel": "(71) 99351-8500",
+    "servicos": [
+      "Terapia individual"
+    ],
+    "descricao_servicos": "Atendimento psicológico individual. Valor social para pessoas de baixa renda.",
+    "id": "psique-psicologia-analitica"
+  },
+  {
+    "ativo": true,
+    "nome": "Centro de Orientação Familiar (COFAM)",
+    "end": "Av. Joana Angélica, N° 79 - Santa Casa de Misericórdia da Bahia.",
+    "tel": "(71) 3242-5959",
+    "servicos": [
+      "Terapia Familiar",
+      "Terapia Conjugal"
+    ],
+    "descricao_servicos": "Psicoterapia de casal e individual Valores por sessão variam entre R$ 10,00 à R$ 60,00.",
+    "id": "cofam-centro-orientacao-familiar"
+  },
+  {
+    "ativo": true,
+    "nome": "Espaço Humanize",
+    "end": "R. das Angélicas, 282. Pituba.",
+    "tel": "(71)3351-4286, (71) 99914-1990",
+    "website": "www.espacohumanize.com.br",
+    "servicos": [
+      "Terapia individual"
+    ],
+    "descricao_servicos": "Psicoterapia individual. Marcação via telefone. Consultas 60,00 por sessão. Agendamento através do whatsapp.",
+    "id": "espaco-humanize"
+  },
+  {
+    "ativo": true,
+    "nome": "Projeto Origami",
+    "end": "Rua Xavantes, 337, Rio vermelho.",
+    "tel": "(71) 99913-2503",
+    "servicos": [],
+    "descricao_servicos": "Atendimento psicológico com valor acessível para pessoas que não tem condições de arcar com custo convencional estabelecido pelo CRP, levando em conta a condição socioeconômica individual.",
+    "id": "projeto-origami"
+  }
+]
