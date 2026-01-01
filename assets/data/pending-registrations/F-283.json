@@ -1,0 +1,20 @@
+{
+  "nome": "F",
+  "end": "Alameda Florença, 137",
+  "tel": "71982864766",
+  "whatsapp": "",
+  "email": "evandrojr@gmail.com",
+  "valor": "",
+  "servicos": [
+    "Emergência Psiquiátrica"
+  ],
+  "descricao_servicos": "G",
+  "mapa": "",
+  "video": "",
+  "bairros_atendidos": "Pituba",
+  "crp": "",
+  "crm": "",
+  "termos": true,
+  "id": "F-283",
+  "ativo": false
+}

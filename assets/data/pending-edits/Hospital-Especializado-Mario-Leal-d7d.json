@@ -1,0 +1,21 @@
+{
+  "ativo": true,
+  "nome": "Hospital Especializado Mário Leal",
+  "end": "Rua Conde de Porto Alegre, no 11, IAPI.",
+  "tel": "(71) 3256-0696 / 3256-0869 / 3117-0155",
+  "valor": "Gratuito",
+  "servicos": [
+    "Emergência Psiquiátrica",
+    "Terapia individual",
+    "Terapia de Grupo"
+  ],
+  "descricao_servicos": "Atendimento psiquiátrico e psicológico em regime de internamento e ambulatorial, psicoterapia individual e em grupo para adultos, terapia ocupacional.",
+  "mapa": "<iframe src='https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15552.87331840325!2d-38.4880311!3d-12.9578766!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xd7122a7ad270df35!2sHospital+Especializado+Mario+Leal!5e0!3m2!1spt-BR!2sbr!4v1538155176605' width='100%' height='450' frameborder='0' style='border:0' allowfullscreen></iframe>",
+  "id": "Hospital-Especializado-Mario-Leal-d7d",
+  "whatsapp": "",
+  "email": "",
+  "video": "",
+  "bairros_atendidos": "teste",
+  "crp": "",
+  "crm": ""
+}
